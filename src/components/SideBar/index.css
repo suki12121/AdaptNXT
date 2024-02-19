@@ -1,0 +1,45 @@
+.sidebar-bg {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  width: 15vw;
+  margin-top: 10px;
+  background-color: white;
+}
+.sidebar-bg1 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 30vh;
+  align-items: flex-start;
+  padding-left: 20px;
+}
+.item-bg99 {
+  display: flex;
+  flex-direction: row;
+  width: 8vw;
+  align-items: center;
+}
+.side-heading {
+  font-size: 20px;
+  padding-left: 10px;
+}
+.icon-sidebar {
+  font-size: 25px;
+}
+.side-heading1 {
+  color: blue;
+  font-size: 20px;
+  padding-left: 10px;
+}
+.icon-sidebar1 {
+  font-size: 25px;
+  color: blue;
+}
+.item-bg991 {
+  display: flex;
+  flex-direction: row;
+  width: 8vw;
+  align-items: center;
+  background-color: aliceblue;
+}
